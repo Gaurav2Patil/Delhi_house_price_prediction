@@ -20,7 +20,7 @@ list_of_files = [
     f"src/{Project_name}/components/data_transformation.py",
     f"src/{Project_name}/components/model_training.py",
     f"src/{Project_name}/pipelines/__init__.py",
-    f"src/{Project_name}/pipelines/train_pipeline.py"
+    f"src/{Project_name}/pipelines/train_pipeline.py",
     f"src/{Project_name}/pipelines/prediction_pipeline.py",
     f"src/exceptions.py",
     "config/config.yaml",
