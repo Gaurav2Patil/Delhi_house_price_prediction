@@ -17,3 +17,7 @@ setup(name='Delhi_House_Price_predictions',
       packages=find_packages(),
       install_requires=install_requirements('requirements.txt'),
     )
+
+if __name__ == '__main__':
+    a = install_requirements('requirements.txt')
+    print(a)
